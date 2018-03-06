@@ -1,0 +1,187 @@
+* {
+    color: black;
+}
+
+#header {
+    background-color: #666666;
+    border: 0px #666666;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    
+    
+}
+
+
+#legenda {
+    color: whitesmoke;
+}
+
+main {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    color: black;
+    display: block;
+    font-size: 16px;
+    height: 140px;
+    width: 100%;
+    color: whitesmoke;
+    font-size: 10px;
+    text-align: left;
+}
+
+#footer {
+    background-color: #666666;
+    border: 0px #666666;
+    text-align: bottom;
+}
+
+#content-containertable.override{
+  width:150px;
+  border-style:Double;
+  background-color:Lime; 
+}
+#content-containertable.override div{
+  height:200px;
+  overflow:scroll;
+}
+
+.scrollable{
+    height: 200px;
+    overflow: scroll;
+}
+
+input{
+	width:100px;
+	color: black;
+}
+
+form .content {
+    width: 100%;
+    color: black;
+}
+
+form .content .blc {
+    position: absolute;
+    float: center;    
+}
+
+
+#table{
+	background-color: #cccccc;
+}
+
+
+
+h2,
+h4 {
+    font-size: 12px;
+    font-weight: 300;
+}
+
+#legenda{
+	font-size: 12px;
+    font-weight: 300;
+    color: white;
+}
+h6 {
+    text-align: right;
+    padding-right: 65px;
+}
+
+h2{
+    padding-left: 80px;
+}
+
+h3, h5{
+    text-align: left;
+    padding-left: 80px;
+    float: left;
+    
+}
+
+ #btne{
+	float: left;
+	text-align: left;
+	padding-left: 320px;
+	
+}
+
+
+#btn, #btn1 , #btn2{
+	padding-left: 40px;
+}
+
+#btn2{
+	padding-left: 40 px;
+}
+
+#siti{
+	color: black;
+
+}
+
+
+
+body {
+    background-color: #ec6b3b;
+}
+
+
+#container{
+    width: 300px;
+}
+
+#email {
+    position: relative;
+    float: left;
+    width: 350px;
+}
+
+#password {
+    position: relative;
+    float: left;
+    width: 350px;
+}
+
+#janela1, #peso {
+    color: black;
+}
+
+#data{
+	width: 100px;
+    color: black;
+    height: 25px;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+    horizontal-align: middle;
+}
+
+
+.window{
+    display:none;
+    width:300px;
+    height:300px;
+    position: fixed;
+    left:0;
+    top:0;
+    background:#FFF;
+    z-index:9900;
+    padding:10px;
+    border-radius:10px;
+}
+ 
+#mascara{
+    display:none;
+    position:absolute;
+    left:0;
+    top:0;
+    z-index:9000;
+    background-color:#000;
+}
+.fechar{display:block; text-align:right;}
+
+
+
+
